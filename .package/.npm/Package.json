@@ -1,1 +1,12 @@
-
+{
+  "name": "Mailbox",
+  "version": "1.0.0",
+  "description": "Easier Place for mail",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mountio",
+  "license": "UNLICENSED",
+  "repository": "https://github.com/Mountio/Mailbox.git"
+}
