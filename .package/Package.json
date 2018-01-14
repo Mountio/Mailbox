@@ -1,1 +1,11 @@
+{
+  "name": "Mailbox",
+  "version": "0.1.0",
+  "description": "A Easier Way to see your mail",
+  "homepage": "https://mountio.github.io",
+  "repository": "https://github.com/Mountio/Mailbox/",
+  "license": "None",
+  "private": "False",
+  "author": "RedMangospros <dev.aravnarula18@gmail.com> (http://Aravnarula.com)",
+}
 
